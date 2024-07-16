@@ -1,1 +1,1 @@
-divide=lambda x,y:x/y
+divide=lambda x,y:int(x)/int(y)
